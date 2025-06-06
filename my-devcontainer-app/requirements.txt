@@ -1,0 +1,8 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+scikit-learn
+openai
+azure-ai-ml 
