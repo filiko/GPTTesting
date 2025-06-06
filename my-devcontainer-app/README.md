@@ -1,0 +1,2 @@
+# My Devcontainer App
+This project is set up with a development container that includes Python and Jupyter support. To get started, open the project in your code editor and the container will be built automatically. You can then run Jupyter notebooks within the container.
